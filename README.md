@@ -1,7 +1,7 @@
 # Curved Keyboard for HoloLens
 
 This repository contains an experimental port of the [Curved VR Keyboard][keyboard-url] for HoloLens.
-![image]
+![demo][image]
 
 ## Requirements
 
@@ -24,5 +24,5 @@ Handles initialization and tap-delegation of keys.
 ### KeyboardOutput.cs
 Connects the input from the keyboard to a component that can display text.
 
-[image]: ./External/ReadmeImages/keyboard.png 
+[image]: ./External/ReadMeImages/keyboard.png 
 [keyboard-url]: https://www.assetstore.unity3d.com/en/#!/content/77177
